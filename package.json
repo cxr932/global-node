@@ -1,0 +1,10 @@
+{
+  "name": "global-node",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "pattern-rename": "pattern-rename/cli.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
