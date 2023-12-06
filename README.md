@@ -13,3 +13,4 @@ Example:
 ```
 pattern-rename ./ ^beginning-of-filename-(.*) removed-beginning-$1
 ```
+The above would transform a filename like `beginning-of-filename-bla-bla.jpg` into `removed-beginning-bla-bla.jpg`
